@@ -1,7 +1,6 @@
 # Your code goes here!
 class Dog 
-  def Bark
-    puts "woof!"
+  def 
   end
 end
 # fido = Dog.new 
